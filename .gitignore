@@ -1,0 +1,6 @@
+./node_Modules
+./bin
+.env
+./.env
+node_Modules
+bin
